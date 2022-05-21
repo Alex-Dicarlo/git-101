@@ -3,6 +3,10 @@ body {
 	font-family: fantasy;
 }
 
+h1 {
+
+	color: blueviolet;
+}
 
 #logo {
 	height: 80px;
